@@ -8,7 +8,7 @@
 
 ## 使用方法
 
-### [リリースページ]() から実行ファイルをダウンロードする。
+### [リリースページ](https://github.com/Uliboooo/all_cargo_clean/releases/tag/ver.0.1.0) から実行ファイルをダウンロードする。
 
 1. 実行ファイルをダウンロードしたディレクトリに移動する。
 1. 実行ファイルを実行する。
@@ -46,7 +46,7 @@ This program is still **version 0.x(=unstable)**. Maybe this program don't delet
 
 ## usages
 
-### download Executable file in [release page]()
+### download Executable file in [release page](https://github.com/Uliboooo/all_cargo_clean/releases/tag/ver.0.1.0)
 
 1. go to direcotory that Executable file downloaded
 1. run Executable file.
